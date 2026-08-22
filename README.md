@@ -157,22 +157,6 @@ More work is available on my [portfolio](https://whoisroktim.lol).
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roktim32&show_icons=true&hide_border=true&rank_icon=github" alt="Roktim's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roktim32&layout=compact&hide_border=true" alt="Roktim's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roktim32&hide_border=true" alt="Roktim's GitHub Streak" />
-</p>
-
----
-
 <p align="center">
   <i>Designing thoughtful experiences. Engineering useful products.</i>
 </p>
