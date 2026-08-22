@@ -1,32 +1,178 @@
-<h1 align="center">Hi 👋, I'm Roktim</h1>
-<h3 align="center">I'm a Software Engineer and UI/UX Designer from Assam, India, passionate about creating elegant, user-friendly web designs. I specialize in simplifying complex problems into beautiful, intuitive solutions. I've worked on numerous successful projects, focusing on functional, attractive websites with a personal touch. I'm currently seeking an entry-level Software Engineer role in a dynamic firm that values my technical skills and supports my professional growth.</h3>
+# Hi, I'm Roktim
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roktim32&label=Profile%20views&color=0e75b6&style=flat" alt="roktim32" /> </p>
+**Software Engineer · Design Engineer · UI/UX Designer**
 
-<p align="left"> <a href="https://twitter.com/roktim___" target="blank"><img src="https://img.shields.io/twitter/follow/roktim___?logo=twitter&style=for-the-badge" alt="roktim___" /></a> </p>
+I build thoughtful digital products at the intersection of **design and engineering**. I enjoy turning complex product requirements into simple, intuitive interfaces and building them into production-ready software.
 
-- 🌱 I’m currently learning **NextJs**
+Based in Bangalore, India.
 
-- 👨‍💻 All of my projects are available at [https://www.roktim.me](https://www.roktim.me)
+[Portfolio](https://whoisroktim.lol) · [LinkedIn](https://www.linkedin.com/in/roktim-kamal-senapoty/) · [X](https://x.com/roktim___)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, NextJs, Node.js, Express.js, C++, Python and UI/UX**
+---
 
-- 📫 How to reach me **roktimsenapoty2@gmail.com**
+## About
 
-<h3 align="left">Connect with me:</h3>
+I'm a Software Engineer and Design Engineer with experience building SaaS products, internal platforms, design systems, and frontend applications.
+
+My work spans the entire product development process — from understanding requirements and designing interfaces to implementing, testing, and shipping production software.
+
+I particularly enjoy working on products where **design decisions and engineering decisions need to work together**.
+
+---
+
+## Design Engineering
+
+I work at the intersection of product design and software engineering, turning ideas and high-fidelity designs into polished, production-ready interfaces.
+
+My work includes:
+
+* Product and SaaS UI/UX
+* Design-to-code implementation
+* Design systems and reusable components
+* React and Next.js development
+* Interaction and motion design
+* Frontend architecture
+* Component-driven development
+* Rapid prototyping and experimentation
+* Translating complex requirements into intuitive interfaces
+
+I care about building products that are not only visually refined, but also **functional, scalable, accessible, and maintainable**.
+
+---
+
+## Engineering
+
+My current engineering focus includes:
+
+* TypeScript
+* React
+* Next.js
+* Node.js
+* NestJS
+* REST APIs
+* PostgreSQL
+* MongoDB
+* Supabase
+* Prisma
+* Docker
+* Git
+* Vercel
+
+I'm particularly interested in **frontend architecture, full-stack development, AI-powered products, and developer tools**.
+
+---
+
+## Design
+
+My design experience includes:
+
+* Product design
+* SaaS interfaces
+* Design systems
+* Interaction design
+* Prototyping
+* Visual design
+* Developer-focused interfaces
+* Landing pages
+* Component libraries
+
+I work with modern design and motion tools to create polished product experiences.
+
+---
+
+## Tech Stack
+
+### Frontend
+
 <p align="left">
-<a href="https://twitter.com/roktim___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roktim___" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/roktim-kamal-senapoty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roktim-kamal-senapoty/" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,html,css" height="45" alt="Frontend technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Backend & Data
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb,supabase,prisma" height="45" alt="Backend and database technologies" />
+</p>
 
+### Infrastructure & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roktim32&show_icons=true&locale=en&layout=compact" alt="roktim32" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws" height="45" alt="Infrastructure and development tools" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roktim32&show_icons=true&locale=en" alt="roktim32" /></p>
+### Design & Motion
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roktim32&" alt="roktim32" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,framer" height="45" alt="Design tools" />
+  <img src="https://cdn.simpleicons.org/rive" height="45" alt="Rive" />
+  <img src="https://cdn.simpleicons.org/lottiefiles" height="45" alt="Lottie" />
+</p>
 
+---
+
+## Selected Work
+
+I've worked on products across SaaS, internal tools, buyer and seller platforms, design systems, and developer-focused interfaces.
+
+Some areas I've worked in include:
+
+* Product and frontend engineering
+* Design systems and component libraries
+* SaaS applications
+* Internal platforms
+* API integrations
+* AI-powered product experiences
+* Design-to-code workflows
+
+More work is available on my [portfolio](https://whoisroktim.lol).
+
+---
+
+## What I'm Interested In
+
+* AI-powered products
+* SaaS
+* Developer tools
+* Design systems
+* Product engineering
+* Frontend architecture
+* Design engineering
+* Building and launching products from scratch
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://whoisroktim.lol">
+    <img src="https://img.shields.io/badge/Portfolio-whoisroktim.lol-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/roktim-kamal-senapoty/">
+    <img src="https://img.shields.io/badge/LinkedIn-Roktim%20Senapoty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/roktim___">
+    <img src="https://img.shields.io/badge/X-@roktim___-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roktim32&show_icons=true&hide_border=true&rank_icon=github" alt="Roktim's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roktim32&layout=compact&hide_border=true" alt="Roktim's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roktim32&hide_border=true" alt="Roktim's GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Designing thoughtful experiences. Engineering useful products.</i>
+</p>
